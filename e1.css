@@ -1,0 +1,23 @@
+header {
+    background-color: blue;
+    padding: 20px;
+}
+
+main {
+    background-color: aqua;
+    padding: 20px;
+    width: 60%;
+    height: 300px;
+}
+
+aside {
+    background-color: aquamarine;
+    padding: 20px;
+    width: 40%;
+    display: inline-block;
+}
+
+footer {
+    background-color: bisque;
+    padding: 20px;
+}
