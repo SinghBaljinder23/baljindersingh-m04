@@ -3,7 +3,14 @@ html{
     margin-right: 30px;
     border: 0px;
   }
+
+
   
+  #container {
+    width: 70%;
+    margin: 0px auto;
+  }
+
   #homelogo {
     margin-left: 40%;
     margin-right: 50%;
@@ -54,4 +61,40 @@ html{
   h1 {
     color: #70614A;
     text-align: center;
+  }
+
+  #asideleft {
+    float: left;
+    width: 200px;
+  } 
+
+  .fotoaside {
+    margin-left: 10%;
+  }
+
+  .subtitulofotos {
+    text-align: center;
+  }
+
+  #asideapuntame {
+    text-align: center;
+    color: white;
+    background-color: rgb(102, 146, 102);
+    margin: 0px;
+    padding: 0px;
+  }
+
+  #asidelibrotexto {
+    background-color: lightgray;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .asidemedio {
+    border: black;
+    float: 
+  }
+
+  .contenido {
+    float: left;
   }
